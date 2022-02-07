@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ambiant-MATE-Ambiance
+Comment=Ambiant MATE Ambiance theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Ambiant-MATE-Ambiance
+MetacityTheme=Ambiant-MATE-Ambiance
+IconTheme=Humanity-Dark
+CursorTheme=mate
+CursorSize=24
+ButtonLayout=menu:minimize,maximize,close
